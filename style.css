@@ -21,7 +21,7 @@ p{
 }
 
 article{
-    margin: 25px;
+    margin: 25px 215px 25px 215px; 
     display: flex;
     flex-flow: column wrap;
     border: 2px solid black;
