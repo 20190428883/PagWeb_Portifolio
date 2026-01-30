@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+body{
+    
+}
+
 header{
     background-color: aqua;
     border: 1px dotted black;
