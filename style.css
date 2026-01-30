@@ -11,8 +11,13 @@ body{
 }
 
 header{
-    background-color: aqua;
+    background-image: url(./Imagens/Sem\ título.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    box-sizing: content-box;
     border: 1px dotted black;
+    height: 100px;
+
 }
 
 p{
