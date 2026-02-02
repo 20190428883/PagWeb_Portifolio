@@ -11,13 +11,12 @@ body{
 }
 
 header{
-    background-image: url(./Imagens/Sem\ título.png);
+    background-image: url(./Imagens/Sem\ título\ \(1\).png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     background-size: cover;
-    box-sizing: content-box;
-    border: 1px dotted black;
-    height: 100px;
+    height: 101px;
+    width: 100%;
 
 }
 
