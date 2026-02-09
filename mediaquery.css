@@ -1,9 +1,14 @@
 @charset "UTF-8";
 
-@media screen  and (min-width: 378px) and (max-width: 600px){
+@media screen  and (min-width: 375px) and (max-width: 600px){
 
     header {
-        background-image: url(./Imagens/BannerMobile.png);
+
+        background-image: url(./Imagens/Banner\ -\ Site/BannerMobile.png) !important;
         
+    }
+
+    body{
+        overflow: hidden;
     }
 }
